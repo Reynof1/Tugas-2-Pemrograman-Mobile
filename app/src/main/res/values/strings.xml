@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas2</string>
+    <string name="register_title">Register</string>
+    <string name="register_button">Daftar</string>
+    <string name="full_name_hint">Nama Lengkap</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+</resources>
